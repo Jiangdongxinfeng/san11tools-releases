@@ -1,0 +1,41 @@
+{
+  "San11FontTools": {
+    "version": "1.0.0",
+    "changelog": "",
+    "platforms": {
+      "Windows-x64": {
+        "version": "1.0.0",
+        "changelog": "",
+        "download_url": "https://github.com/Jiangdongxinfeng/San11Tools/releases/download/v1.0.0/San11FontTools-Windows-x64.zip",
+        "src_download_url": "https://github.com/Jiangdongxinfeng/San11Tools/releases/download/v1.0.0/San11FontTools-src.zip",
+        "sha256": ""
+      }
+    }
+  },
+  "San11DataEditor": {
+    "version": "1.0.0",
+    "changelog": "",
+    "platforms": {
+      "Windows-x64": {
+        "version": "1.0.0",
+        "changelog": "",
+        "download_url": "https://github.com/Jiangdongxinfeng/San11Tools/releases/download/v1.0.0/San11DataEditor-Windows-x64.zip",
+        "src_download_url": "https://github.com/Jiangdongxinfeng/San11Tools/releases/download/v1.0.0/San11DataEditor-src.zip",
+        "sha256": ""
+      }
+    }
+  },
+  "San11ResTools": {
+    "version": "1.0.0",
+    "changelog": "",
+    "platforms": {
+      "Windows-x64": {
+        "version": "1.0.0",
+        "changelog": "",
+        "download_url": "https://github.com/Jiangdongxinfeng/San11Tools/releases/download/v1.0.0/San11ResTools-Windows-x64.zip",
+        "src_download_url": "https://github.com/Jiangdongxinfeng/San11Tools/releases/download/v1.0.0/San11ResTools-src.zip",
+        "sha256": ""
+      }
+    }
+  }
+}
