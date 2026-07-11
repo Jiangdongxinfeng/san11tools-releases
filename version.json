@@ -1,41 +1,29 @@
 {
   "San11FontTools": {
     "version": "1.0.0",
-    "changelog": "",
-    "platforms": {
-      "Windows-x64": {
-        "version": "1.0.0",
-        "changelog": "",
-        "download_url": "https://github.com/Jiangdongxinfeng/San11Tools/releases/download/v1.0.0/San11FontTools-Windows-x64.zip",
-        "src_download_url": "https://github.com/Jiangdongxinfeng/San11Tools/releases/download/v1.0.0/San11FontTools-src.zip",
-        "sha256": ""
-      }
-    }
+    "download_url": "https://github.com/Jiangdongxinfeng/san11tools-releases/releases/download/vSan11FontTools-1.0.0/San11FontTools-Windows-x64-v1.0.0.zip",
+    "src_download_url": "https://github.com/Jiangdongxinfeng/san11tools-releases/releases/download/vSan11FontTools-1.0.0/San11FontTools-src-v1.0.0.zip",
+    "sha256": "556fdeb744a6ae559b0f1d9ce76f9965e7db605d230284c15e0256d62eb4860e",
+    "size": 110272037,
+    "changelog": "v1.0.2 版本更新",
+    "release_date": "2026-07-11"
   },
   "San11DataEditor": {
-    "version": "1.0.0",
-    "changelog": "",
-    "platforms": {
-      "Windows-x64": {
-        "version": "1.0.0",
-        "changelog": "",
-        "download_url": "https://github.com/Jiangdongxinfeng/San11Tools/releases/download/v1.0.0/San11DataEditor-Windows-x64.zip",
-        "src_download_url": "https://github.com/Jiangdongxinfeng/San11Tools/releases/download/v1.0.0/San11DataEditor-src.zip",
-        "sha256": ""
-      }
-    }
+    "version": "1.0.2",
+    "download_url": "https://github.com/Jiangdongxinfeng/san11tools-releases/releases/download/vSan11DataEditor-1.0.2/San11DataEditor-Windows-x64-v1.0.2.zip",
+    "src_download_url": "https://github.com/Jiangdongxinfeng/san11tools-releases/releases/download/vSan11DataEditor-1.0.2/San11DataEditor-src-v1.0.2.zip",
+    "sha256": "062eb39e5989bc1db5a31868c5436038edb08791853f3d59d2a303079e3b9487",
+    "size": 55684007,
+    "changelog": "内存修改模式的bug修复",
+    "release_date": "2026-07-11"
   },
   "San11ResTools": {
-    "version": "1.0.0",
-    "changelog": "",
-    "platforms": {
-      "Windows-x64": {
-        "version": "1.0.0",
-        "changelog": "",
-        "download_url": "https://github.com/Jiangdongxinfeng/San11Tools/releases/download/v1.0.0/San11ResTools-Windows-x64.zip",
-        "src_download_url": "https://github.com/Jiangdongxinfeng/San11Tools/releases/download/v1.0.0/San11ResTools-src.zip",
-        "sha256": ""
-      }
-    }
+    "version": "1.0.1",
+    "download_url": "https://github.com/Jiangdongxinfeng/san11tools-releases/releases/download/vSan11ResTools-1.0.1/San11ResTools-Windows-x64-v1.0.1.zip",
+    "src_download_url": "https://github.com/Jiangdongxinfeng/san11tools-releases/releases/download/vSan11ResTools-1.0.1/San11ResTools-src-v1.0.1.zip",
+    "sha256": "5809d774a821a5ded2cf4f4e6644c1650a31eeef8781109b8cde14ac6585c3aa",
+    "size": 158738223,
+    "changelog": "v1.0.3 版本更新",
+    "release_date": "2026-07-11"
   }
 }
