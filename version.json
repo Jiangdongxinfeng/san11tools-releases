@@ -3,27 +3,27 @@
     "version": "1.0.5",
     "download_url": "https://github.com/Jiangdongxinfeng/san11tools-releases/releases/download/vSan11FontTools-1.0.5/San11FontTools-Windows-x64-v1.0.5.zip",
     "src_download_url": "https://github.com/Jiangdongxinfeng/san11tools-releases/releases/download/vSan11FontTools-1.0.5/San11FontTools-src-v1.0.5.zip",
-    "sha256": "dcfd946ad4f2e145c84d4145b46b3f924146f60821db6c9d782ce30080ff3b61",
-    "size": 110273644,
-    "changelog": "更新进度条异常修复",
+    "sha256": "5fc6173491a9cac0a9ee14112af7d1dee1a365ee1dd2e21f6a6e907cb0ebd56f",
+    "size": 110273768,
+    "changelog": "更新进度条异常修复2",
     "release_date": "2026-07-11"
   },
   "San11DataEditor": {
     "version": "1.0.7",
     "download_url": "https://github.com/Jiangdongxinfeng/san11tools-releases/releases/download/vSan11DataEditor-1.0.7/San11DataEditor-Windows-x64-v1.0.7.zip",
     "src_download_url": "https://github.com/Jiangdongxinfeng/san11tools-releases/releases/download/vSan11DataEditor-1.0.7/San11DataEditor-src-v1.0.7.zip",
-    "sha256": "9b9286e30057ca3e9e50a952442c12a537090e65ab42da4a3595f4389dd95487",
-    "size": 55685599,
-    "changelog": "更新进度条异常修复",
+    "sha256": "c3449d811d6532b21be6da27d6af2b41edeacea94fc1d292f8a77d32e68d3d43",
+    "size": 55685727,
+    "changelog": "更新进度条异常修复2",
     "release_date": "2026-07-11"
   },
   "San11ResTools": {
     "version": "1.0.6",
     "download_url": "https://github.com/Jiangdongxinfeng/san11tools-releases/releases/download/vSan11ResTools-1.0.6/San11ResTools-Windows-x64-v1.0.6.zip",
     "src_download_url": "https://github.com/Jiangdongxinfeng/san11tools-releases/releases/download/vSan11ResTools-1.0.6/San11ResTools-src-v1.0.6.zip",
-    "sha256": "f733de794eadbf12b772f43192d4f7eb0fd85f758caa4126a21ad8b882e48535",
-    "size": 158740324,
-    "changelog": "更新进度条异常修复",
+    "sha256": "ddbd1719cba95c139d75a879e707c1134f981fb6e0f61f9f5f5877a43d255840",
+    "size": 158740466,
+    "changelog": "更新进度条异常修复2",
     "release_date": "2026-07-11"
   }
 }
