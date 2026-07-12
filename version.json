@@ -21,8 +21,8 @@
     "version": "1.1.1",
     "download_url": "https://github.com/Jiangdongxinfeng/san11tools-releases/releases/download/vSan11ResTools-1.1.1/San11ResTools-Windows-x64-v1.1.1.zip",
     "src_download_url": "https://github.com/Jiangdongxinfeng/san11tools-releases/releases/download/vSan11ResTools-1.1.1/San11ResTools-src-v1.1.1.zip",
-    "sha256": "05aa2e2a7285f8398e82ba6e222e16993906599165d5605be49e5ff7413514de",
-    "size": 168944269,
+    "sha256": "1a046e80670cbe23c72cee68bed10e850d866177fcbcdcbe048cdc59eff137ac",
+    "size": 168944047,
     "changelog": "v1.1.2 版本更新",
     "release_date": "2026-07-12"
   }
