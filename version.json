@@ -3,9 +3,9 @@
     "version": "1.1.1",
     "download_url": "https://github.com/Jiangdongxinfeng/san11tools-releases/releases/download/vSan11FontTools-1.1.1/San11FontTools-Windows-x64-v1.1.1.zip",
     "src_download_url": "https://github.com/Jiangdongxinfeng/san11tools-releases/releases/download/vSan11FontTools-1.1.1/San11FontTools-src-v1.1.1.zip",
-    "sha256": "8fc1c1441054066e37b192dbd550c6a17e39359cad0e18e21187db8da0518827",
-    "size": 114877745,
-    "changelog": "构建模块缺失问题修复",
+    "sha256": "0f2713f75c4db6319d7600bce8f91e0888dba48b43d9665565aa3f6f6e81faf0",
+    "size": 115992662,
+    "changelog": "包含库遗漏错误修复",
     "release_date": "2026-07-12"
   },
   "San11DataEditor": {
